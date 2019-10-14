@@ -4,7 +4,7 @@ weight: 1
 pre: "<b>1. </b>"
 ---
 
-![TAT image](/images/067-graphic-tablet.png?width=20%)
+![Drawing Board image](/images/067-graphic-tablet.png?width=20%)
 
 ### Let's brainstorm as a team 🤔
 ```

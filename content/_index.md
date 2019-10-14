@@ -7,7 +7,7 @@ weight: 5
 # Welcome to the Hackathon Toolbox
 
 
-![TAT image](/images/006-toolbox.png?width=20%)
+![toolbox image](/images/006-toolbox.png?width=20%)
 
 ### What is the hackathon toolbox?
 
