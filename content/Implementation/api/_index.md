@@ -4,7 +4,7 @@ weight: 10
 
 ---
 
-![TAT image](/images/044-network-1.png?width=20%)
+![API image](/images/044-network-1.png?width=20%)
 
 ## Build an API
 ```
@@ -23,6 +23,15 @@ AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 Default region name [None]: us-west-2 // put in your region
 Default output format [None]: json
 ```
+
+### Set up an IDE (optional)
+
+Optionally, you can set up an IDE to work with your AWS Environment
+
+| AWS Cloud9                                                         | IntelliJ                                                             | VS Code                                                                      |
+| ------------------------------------------------------------------ | -------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| ![Cloud9 image](/images/Cloud9Logo.png?width=90px)                 | ![IntelliJ image](/images/IntelliJ_IDEA_Logo.png?width=90px)         | ![VSCode image](/images/VSCodeLogo.png?width=90px)                           |
+| <a href="https://aws.amazon.com/cloud9/" target="_blank">Setup</a> | <a href="https://aws.amazon.com/intellij/" target="_blank">Setup</a> | <a href="https://aws.amazon.com/visualstudiocode/" target="_blank">Setup</a> |
 
 3. Install the aws amplify cli 
 ```

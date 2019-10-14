@@ -9,6 +9,8 @@ weight: 5
 
 ![toolbox image](/images/006-toolbox.png?width=20%)
 
+A hackathon, also known as a hack day, hackfest or codefest, is a design sprint-like event in which various individuals collaborate intensively on technology projects.
+
 ### What is the hackathon toolbox?
 
 ```
@@ -20,7 +22,7 @@ This is a guide to ensure you get the most value out of this time.
 
 {{% notice note %}}
 The hackathon toolbox is not to be used in production is any way shape or form.
-This toolbox is designed for pure pace, as pace is the highest priority in a hackathon.
+This toolbox is designed purely for pace. Velocity is the highest priority in a hackathon.
 DO NOT USE IN PRODUCTION.
 {{% /notice%}}
 
@@ -36,7 +38,7 @@ DO NOT USE IN PRODUCTION.
 
 ```
 
-### When you are ready click the **>** arrow to get started
+### When you are ready, click the **>** arrow to get started
 
 
 
